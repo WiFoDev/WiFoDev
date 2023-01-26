@@ -1,10 +1,10 @@
 # Hello there, It's WiFoDev 🤖
-I am a Test Automation Engineer, but I love to develop things related to frontend, backend and blockchain. I'm very happy learning and making projects with React ⚛️
+I am a Software Engineer and I love to develop things related to frontend, backend and blockchain. I'm very happy learning and making projects with React ⚛️ and tech in general. Let's connect and build amazing things.
 
 ## What I'm up to
-- 💻 I'm currently working @ [Globant](https://www.globant.com/).
-- 🔧 I'm currently working with Typescript and Webdriver IO.
-- 🌱 I'm learning React and Solidity.
+- 💻 I'm currently working @ [OpenLoop Health](https://openloophealth.com/).
+- 🔧 I'm currently working with Typescript, React and NodeJS.
+- 🌱 I'm learning about Web3 @ [Alchemy University](https://university.alchemy.com/).
 - 💞️ Passionate about tech world.
 
 ## Languages and Tools 🔧
