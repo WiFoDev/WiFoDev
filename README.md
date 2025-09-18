@@ -35,5 +35,3 @@ I thrive at the intersection of **frontend excellence, backend scalability, and 
 *(Feel free to reach out — always open to discussing tech, music, and new opportunities!)*
 
 ---
-
-![WiFoDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=WiFoDev&show_icons=true&theme=react)
