@@ -1,37 +1,37 @@
-# 👋 Hello there, I'm Luis (WiFoDev)
+# Luis Ramirez — WiFoDev
 
-I'm a **Senior Software Engineer** passionate about building scalable, high-quality web applications and distributed systems.  
-I thrive at the intersection of **frontend excellence, backend scalability, and cloud-native architectures**.  
+Staff Software Engineer based in Lima, Peru. Currently at
+[OpenLoop Health](https://openloophealth.com), working across a TypeScript +
+AWS platform (React, Next.js, Node, GraphQL, CDK, Lambda, DynamoDB).
 
-💡 I enjoy creating tools and experiences that empower creators, teams, and end users — with a strong focus on performance, accessibility, and maintainability.
+Outside of work I build for the LATAM market — small, opinionated products
+where I can own the whole stack and the whole user loop.
 
----
+### Building right now
 
-## 🚀 What I'm up to
-- 💻 Currently Engineering Lead @ [OpenLoop Health](https://openloophealth.com/)  
-- 🔧 Working daily with **TypeScript, React, Next.js, Node.js, GraphQL, and AWS (CDK, Lambda, DynamoDB, API Gateway, S3)**  
-- 🌱 Exploring how **AI and LLMs** can improve developer productivity and enhance product features  
-- 🤝 Passionate about **mentoring, design systems, and simplifying legacy code**  
+- **[PadelHub](https://github.com/PadelHub-pe/padel-hub)** — two-sided
+  booking platform for padel courts in Lima. T3 Turborepo with Expo,
+  Next.js, tRPC, and Supabase; a player mobile app plus a court-owner
+  dashboard.
+- **[GastoBot](https://github.com/WiFoDev/gasto-bot)** — a WhatsApp-first
+  expense tracker I use daily. Fastify + Supabase + Claude; zero-UI
+  logging via chat, Vision-based receipt parsing, and validation gates
+  on LLM accuracy.
 
----
+### Stack I reach for
 
-## 🛠️ Languages & Tools
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonaws.svg" alt="AWS" width="40"/>
-</p>
+TypeScript, Next.js, Node, Supabase / Postgres, AWS, Vercel. Claude and
+the OpenAI API when a problem needs an LLM. Expo when it needs to be on
+a phone.
 
----
+### How I work
 
-## 📬 Let's connect
-[<img src="https://cdn3.iconfinder.com/data/icons/sociocons/256/linkedin-sociocon.png" alt="LinkedIn" width="40"/>](https://www.linkedin.com/in/luisramirez26/)  
-*(Feel free to reach out — always open to discussing tech, music, and new opportunities!)*
+Ship over plan. Small codebases over elaborate ones. Tests that protect
+behavior, not implementation. Let categories, rules, and conventions
+emerge from real use instead of modeling them upfront.
 
----
+Off the keyboard: drums.
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/luisramirez26/)
